@@ -1,0 +1,10 @@
+# SentinelX ownership
+/modules/detection/ @member1
+/modules/agents/ @member2
+/modules/platform/ @teamlead
+/orchestrator/ @member2 @teamlead
+/schemas/ @member1 @member2 @teamlead
+/api/ @teamlead
+/dashboard/ @teamlead
+/tests/ @teamlead
+/deploy/ @teamlead
